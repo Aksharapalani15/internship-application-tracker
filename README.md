@@ -10,7 +10,7 @@ A full-stack web application designed to help students organize internship appli
 
 ### 2. Applications
 
-![Applications Screenshot](screenshots/Application%20Start.png)
+![Applications Screenshot](Screenshots/Applications.png)
 
 ### 3. Profile
 
