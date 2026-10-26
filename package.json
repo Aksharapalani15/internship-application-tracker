@@ -1,0 +1,19 @@
+{
+  "name": "internship-tracker",
+  "version": "1.0.0",
+  "description": "Internship Application Tracker portfolio project",
+  "scripts": {
+    "start": "npm start --prefix server",
+    "dev": "npm run dev --prefix server",
+    "test": "npm test --prefix server",
+    "lint": "npm run lint --prefix server",
+    "seed": "npm run seed --prefix server",
+    "client:dev": "npm run dev --prefix client",
+    "client:build": "npm run build --prefix client",
+    "client:install": "npm install --prefix client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
